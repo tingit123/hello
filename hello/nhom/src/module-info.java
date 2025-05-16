@@ -4,6 +4,6 @@
 /**
  * 
  */
-module pheptoan {
+module nhom {
 	requires java.desktop;
 }
